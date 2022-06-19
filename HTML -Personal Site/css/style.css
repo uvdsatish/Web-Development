@@ -1,0 +1,27 @@
+<style>
+  body{
+    background-color: #D3EBCD;
+  }
+/*  hr{
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+  } */
+hr {
+  border-width:0;
+}
+
+h1 {
+    color: #6CC4A1;
+  }
+
+.title {
+  color: #6CC4A1;
+}
+
+h2:not(.title){
+    color: #34B3F1;
+    text-align: center;
+  }
+</style>
