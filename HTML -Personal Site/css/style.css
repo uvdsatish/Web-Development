@@ -2,15 +2,15 @@
   body{
     background-color: #D3EBCD;
   }
-/*  hr{
+hr{
     border-color: grey;
     border-style: dotted none none;
     border-width: 5px;
     width: 5%;
-  } */
-hr {
+  }
+/*hr {
   border-width:0;
-}
+}*/
 
 h1 {
     color: #6CC4A1;
