@@ -61,7 +61,6 @@ p{
 }
 
 #footer{
-  padding: 7% 15%;
   text-align: center;
 }
 
@@ -139,6 +138,10 @@ p{
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+.social-icon{
+  margin: 20px 10px;
 }
 
 
